@@ -1,3 +1,9 @@
 bug fix
 
 https://github.com/WebDesignMastery/RentalX_20-07-24.git
+
+
+
+
+
+conflict 2
